@@ -2,9 +2,7 @@
 
 Programa Explorer Rocketseat:
 
-Objetivo: Recriando Layout
-
-Nesse desafio, recebemos um projeto no Figma para recriação em HTML5 e CSS3, sendo disponibilizado ao desenvolver apenas os arquivos .png e .svg.
+Objetivo: Desenvolver aplicação a partir de um layout figma e arquivos .png e .svg.
 
 Desafio:
 
